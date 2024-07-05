@@ -1,4 +1,4 @@
-# Backend Development Classwork Repository
+# Backend Development Repository
 
 ## Overview
 This repository contains classwork materials, exercises, and additional resources for the Backend Development course at Picsart Academy. It is structured to support learning and provide a centralized location for all course-related code and documentation.
@@ -8,8 +8,7 @@ This repository contains classwork materials, exercises, and additional resource
 ## Getting Started
 
 ### Prerequisites
-- Python 3.8 or higher
-- pip (Python package installer)
+- Node (14.x) higher
 
 ### Installation
 Clone the repository to your local machine using the following command:
